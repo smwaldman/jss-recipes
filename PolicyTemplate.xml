@@ -1,6 +1,6 @@
 <policy>
 	<general>
-		<name>SFDC-PATCHING-%PROD_NAME%-JSSImporterBeta</name>
+		<name>SFDC-PATCHING-%PROD_NAME%-beta</name>
 		<enabled>true</enabled>
 		<frequency>Ongoing</frequency>
 		<trigger_other>%PROD_NAME%</trigger_other>
