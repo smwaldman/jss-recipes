@@ -19,7 +19,7 @@
 		<key>OS_REQUIREMENTS</key>
 		<string>10.14.x,10.13.x,10.12.x,10.11.x</string>
 		<key>POLICY_CATEGORY</key>
-		<string>Testing</string>
+		<string>UEX Patching Titles</string>
 		<key>POLICY_TEMPLATE</key>
 		<string>PolicyTemplate.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
