@@ -20,7 +20,7 @@
 		<key>CATEGORY</key>
 		<string>Patches</string>
 		<key>GROUP_NAME</key>
-		<string>VERSION %NAME% <%VERSION%</string>
+		<string>VERSION %NAME% LT %VERSION%</string>
 		<key>GROUP_TEMPLATE</key>
 		<string>Microsoft WordSmartGroupTemplate.xml</string>
 		<key>NAME</key>
