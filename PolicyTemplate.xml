@@ -5,7 +5,7 @@
 		<frequency>Ongoing</frequency>
 		<trigger_other>%PROD_NAME%-beta</trigger_other>
 		<category>
-			<name>%POLICY_CATEGORY%</name>
+			<name>UEX Beta Patching Titles</name>
 		</category>
 	</general>
 	<scope>
