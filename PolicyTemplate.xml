@@ -3,7 +3,7 @@
 		<name>SFDC-PATCHING-%PROD_NAME%-beta</name>
 		<enabled>true</enabled>
 		<frequency>Ongoing</frequency>
-		<trigger_other>%PROD_NAME%</trigger_other>
+		<trigger_other>%PROD_NAME%-beta</trigger_other>
 		<category>
 			<name>%POLICY_CATEGORY%</name>
 		</category>
