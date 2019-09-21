@@ -22,7 +22,7 @@
 		<install_button_text>Update</install_button_text>
 		<self_service_display_name>Update %PROD_NAME%</self_service_display_name>
 		<reinstall_button_text>Update</reinstall_button_text>
-		<self_service_description>A new patch, %PROD_NAME% %VERSION%, is now available for your computer. To downlaod and install it, first quit %PROD_NAME%, and then click 'Update' below. If the update fails, ensure that all %PROD_NAME% processes have been stopped, and try again. If the issue persists, please reach out to Techforce for assistance.</self_service_description>
+		<self_service_description>A new patch, %PROD_NAME% %VERSION%, is now available for your computer. To download and install it, first quit %PROD_NAME%, and then click 'Update' below. If the update fails, ensure that all %PROD_NAME% processes have been stopped, and try again. If the issue persists, please reach out to Techforce for assistance.</self_service_description>
 	</self_service>
 	<maintenance>
 		<recon>true</recon>
