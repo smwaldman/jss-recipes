@@ -20,9 +20,9 @@
 		<key>CATEGORY</key>
 		<string>Productivity</string>
 		<key>GROUP_NAME</key>
-		<string>%NAME%-update-smart</string>
+		<string>VERSION %NAME% -lt %VERSION%</string>
 		<key>GROUP_TEMPLATE</key>
-		<string>SmartGroupTemplate.xml</string>
+		<string>Microsoft ExcelSmartGroupTemplate.xml</string>
 		<key>NAME</key>
 		<string>Microsoft Excel</string>
 		<key>OS_REQUIREMENTS</key>
