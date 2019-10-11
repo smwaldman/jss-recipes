@@ -1,6 +1,6 @@
 <policy>
 	<general>
-		<name>SFDC-Patching-%PROD_NAME%-beta</name>
+		<name>Install %PROD_NAME% beta</name>
 		<enabled>true</enabled>
 		<frequency>Ongoing</frequency>
 		<trigger_other>%PROD_NAME%-beta</trigger_other>
